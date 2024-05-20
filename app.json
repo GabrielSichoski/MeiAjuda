@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "MEIajuda",
+    "slug": "MEIajuda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0e201e"
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logomeiajuda.png",
+        "backgroundColor": "#0e201e"
+      },
+      "package": "com.primosricos.MEIajuda"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0adb41a2-352c-4f03-9c70-ff1e04b7e788"
+      }
+    }
+  }
+}
