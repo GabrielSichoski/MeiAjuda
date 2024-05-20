@@ -94,6 +94,8 @@ Na versão atual, o aplicativo não faz exportação de dados por nenhum meio, o
 
 [rafosos](https://github.com/rafosos)
 
+[axelkun02](https://github.com/axelkun02)
+
 ## Licença
 The MIT License (MIT)
 
