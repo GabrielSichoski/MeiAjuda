@@ -97,4 +97,4 @@ Na versão atual, o aplicativo não faz exportação de dados por nenhum meio, o
 ## Licença
 The MIT License (MIT)
 
-## Copyright Primos Ricos©️ 2023 - MEIajuda
+## Copyright Primos Ricos©️ 2024 - MEIajuda
